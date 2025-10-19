@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 673cda2e16a6ea44d90ae2106260436a, type: 3}
+  m_Name: CaptchaGenerator
+  m_EditorClassIdentifier: 
+  captchas:
+  - Image: {fileID: 3850232830421795586, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: 87yyt
+  - Image: {fileID: -5168116559919982928, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: ad1355
+  - Image: {fileID: -2123005495200561294, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: as34
+  - Image: {fileID: -8550712927757908329, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: b1gb00s
+  - Image: {fileID: -656811696256758224, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: forrq1
+  - Image: {fileID: -5143961083484876471, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: kefao12
+  - Image: {fileID: 2217843344342547471, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: kjsag631a
+  - Image: {fileID: 6147833775636131897, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: knatro
+  - Image: {fileID: -2884478225262045181, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: Larry
+  - Image: {fileID: -815021150516079123, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: matfg4
+  - Image: {fileID: 8948465019733329847, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: mc941f
+  - Image: {fileID: -6529573923949014773, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: oqwd6
+  - Image: {fileID: 4573465659634085649, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: p8arri7
+  - Image: {fileID: 1351999409355271645, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: pgghr3
+  - Image: {fileID: 8639080887978568086, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: pp1h
+  - Image: {fileID: 4018629890275284289, guid: 4ceae1d914e86d34aa238c07de314cd7, type: 3}
+    Value: samtac0s
