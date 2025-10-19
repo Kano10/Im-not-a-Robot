@@ -12,3 +12,5 @@ El juego trata de superar la mayor cantidad de Captchas antes de que se acabe el
 El proyecto fue desarrollado para dispositivo con pantalla 1920x1080p, y testeado en un Samnsung Galaxy A52s, por lo que no es responsivo a otras relaciones de aspecto y no se puede asegurar que lo sea en celulares diferentes al usado en los test.
 
 Si se desea probar el proyecto, descargar el .apk presente en el repositorio.
+
+El proyecto fue desarrollado por Luciano Argomedo.
